@@ -1,5 +1,5 @@
 # ALMA-tools
-Agriculture Land Mapping (ALMA Tool), Merupakan sebuah program aplikasi python berbasis desktop yang dikembangkan oleh @dynzprodc, yang berfungsi untuk melakukan pemetaan dan analisis lahan pertanian secara digital.
+Agriculture Land Mapping (ALMA Tool), Merupakan sebuah program aplikasi python berbasis desktop berfungsi untuk melakukan pemetaan dan analisis lahan pertanian secara digital.
 Dengan memasukkan titik koordinat batas lahan, aplikasi ini dapat mensimulasikan luas lahan serta parameter lingkungan di area tersebut(seperti suhu, kelembaban, jenis tanah, dan itensitas cahaya). Hasil akhirnya akan diekspor menjadi sebuah peta interaktif dalam format .html dengan tampilan satelit dari ESRI WORLD IMAGERY.
 
 # Base Language & Library
@@ -14,3 +14,7 @@ Meskipun logika analisisnya saat ini masih menggunakan simulasi matematis (belum
 - Visualisasi Batas Lahan, Membantu user melihat bentuk dan batas lahan mereka secara jelas.
 - Estimasi Luas Lahan, Memberikan hitungan perkiraan luas area (m2) dari titik koordinat yang diplot secara instan.
 - Digitalisasi Data Pertanian, Memudahkan penyimpanan data pemetaan lahan ke dalam file HTML yang interaktif dan mudah.
+
+
+
+created by @dynzprodc {2025}
