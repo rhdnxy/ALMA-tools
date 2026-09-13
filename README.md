@@ -41,4 +41,4 @@ Catatan Penting : Anda wajib memasukkan minimal 3 titik koordinat agar sistem bi
 Jika Anda ingin memetakan area baru, klik tombol merah bertuliskan "Reset" pada aplikasi. Tombol ini akan menghapus semua titik koordinat yang ada di daftar sehingga Anda bisa mulai dari awal.
 
 
-*created by @dynzprodc {2025}
+created by @dynzprodc {2025}
