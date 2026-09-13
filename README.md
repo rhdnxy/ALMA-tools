@@ -15,7 +15,7 @@ Meskipun logika analisisnya saat ini masih menggunakan simulasi matematis (belum
 - Estimasi Luas Lahan, Memberikan hitungan perkiraan luas area (m2) dari titik koordinat yang diplot secara instan.
 - Digitalisasi Data Pertanian, Memudahkan penyimpanan data pemetaan lahan ke dalam file HTML yang interaktif dan mudah.
 
-# Information use
+# Information Use
 Sebelum menjalankan script ALMA tools.py, pastikan Anda sudah menginstal Python di komputer Anda beserta beberapa pustaka (library) pendukung yang dibutuhkan sebagai berikut:
 pip install folium shapely (Pustaka tkinter dan datetime biasanya sudah bawaan dari Python).
 Panduan Cara Penggunaan :
@@ -41,4 +41,4 @@ Catatan Penting : Anda wajib memasukkan minimal 3 titik koordinat agar sistem bi
 Jika Anda ingin memetakan area baru, klik tombol merah bertuliskan "Reset" pada aplikasi. Tombol ini akan menghapus semua titik koordinat yang ada di daftar sehingga Anda bisa mulai dari awal.
 
 
-created by @dynzprodc {2025}
+*created by @dynzprodc {2025}
